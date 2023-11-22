@@ -30,7 +30,7 @@ dependencies:
     sdk: flutter
   url_launcher_android:
       git:
-        url: git@github.com:Corpauration/url_launcher.git
+        url: https://github.com/Corpauration/url_launcher.git
         path: url_launcher_android
   url_launcher_ios: ^6.0.13
   # Allow either the pure-native or Dart/native hybrid versions of the desktop
